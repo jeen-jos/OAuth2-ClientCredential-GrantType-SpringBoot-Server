@@ -1,0 +1,7 @@
+security:
+  oauth2:
+    client:
+      clientId: 0oahz1q4Qosx0io5z5d5
+      clientSecret: BCVSn5hKiv2JbkjYGFkcEAcqMfw5_66aWEXxeSQi
+    resource:
+      tokenInfoUri: https://dev-1951019.okta.com/oauth2/default/v1/introspect   
